@@ -232,3 +232,8 @@ html {
         border-right:none;
     }
 }
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
