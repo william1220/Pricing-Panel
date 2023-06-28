@@ -23,9 +23,6 @@ This a basic web page made from basic HTML and CSS. This is based on Udemy onlin
 
 The Web Page is made of HTML and CSS. 
 
-## Contributing
-
-
 ## Authors
 
 * **william1220** - *Graduate of Le Wagon Bootcamp* - [william1220](https://github.com/william1220/) - *I created It*
